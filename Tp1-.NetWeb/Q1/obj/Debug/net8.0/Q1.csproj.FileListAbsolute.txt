@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\bin\Debug\net8.0\Q1.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\bin\Debug\net8.0\Q1.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\bin\Debug\net8.0\Q1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\bin\Debug\net8.0\Q1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\Q1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\refint\Q1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\Q1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q1\obj\Debug\net8.0\ref\Q1.dll
