@@ -12,3 +12,4 @@ C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q4\obj\Debug\n
 C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q4\obj\Debug\net8.0\Q4.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q4\obj\Debug\net8.0\Q4.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q4\obj\Debug\net8.0\ref\Q4.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TP1-.NetWeb\Tp1-.NetWeb\Q4\obj\Debug\net8.0\Q4.sourcelink.json
