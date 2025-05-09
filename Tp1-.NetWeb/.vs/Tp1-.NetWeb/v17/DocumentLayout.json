@@ -3,56 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3EFFC72-F199-48C9-8E1C-1E01BB3904E5}|Q7\\Q7.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3EFFC72-F199-48C9-8E1C-1E01BB3904E5}|Q7\\Q7.csproj|solutionrelative:q7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q12\\pages\\createevent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|solutionrelative:q12\\pages\\createevent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3EFFC72-F199-48C9-8E1C-1E01BB3904E5}|Q7\\Q7.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q7\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3EFFC72-F199-48C9-8E1C-1E01BB3904E5}|Q7\\Q7.csproj|solutionrelative:q7\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q12\\pages\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|solutionrelative:q12\\pages\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DB3554B-71DD-4907-94E9-813C76126D2F}|Q6\\Q6.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB3554B-71DD-4907-94E9-813C76126D2F}|Q6\\Q6.csproj|solutionrelative:q6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q12\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|solutionrelative:q12\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DB3554B-71DD-4907-94E9-813C76126D2F}|Q6\\Q6.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q6\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DB3554B-71DD-4907-94E9-813C76126D2F}|Q6\\Q6.csproj|solutionrelative:q6\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q12\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|solutionrelative:q12\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B7B744-01F3-4ED6-A2CD-9D29E77033FB}|Q2\\Q2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B7B744-01F3-4ED6-A2CD-9D29E77033FB}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5B7B744-01F3-4ED6-A2CD-9D29E77033FB}|Q2\\Q2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q2\\q2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E5B7B744-01F3-4ED6-A2CD-9D29E77033FB}|Q2\\Q2.csproj|solutionrelative:q2\\q2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEFEF818-009C-40DB-ACDD-86767AF2CC86}|Q5\\Q5.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFEF818-009C-40DB-ACDD-86767AF2CC86}|Q5\\Q5.csproj|solutionrelative:q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39856387-D7E1-4F9C-B42C-A0813F5E482C}|Q1\\Q1.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39856387-D7E1-4F9C-B42C-A0813F5E482C}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEFEF818-009C-40DB-ACDD-86767AF2CC86}|Q5\\Q5.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q5\\downloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFEF818-009C-40DB-ACDD-86767AF2CC86}|Q5\\Q5.csproj|solutionrelative:q5\\downloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3BC349-B554-4673-8391-6F1D461D9504}|Q4\\Q4.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q4\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3BC349-B554-4673-8391-6F1D461D9504}|Q4\\Q4.csproj|solutionrelative:q4\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3BC349-B554-4673-8391-6F1D461D9504}|Q4\\Q4.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3BC349-B554-4673-8391-6F1D461D9504}|Q4\\Q4.csproj|solutionrelative:q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3BC349-B554-4673-8391-6F1D461D9504}|Q4\\Q4.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q4\\mostraralerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3BC349-B554-4673-8391-6F1D461D9504}|Q4\\Q4.csproj|solutionrelative:q4\\mostraralerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{012B4F26-8C37-4B2F-B36C-3FEDC18B84C1}|Q3\\Q3.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{012B4F26-8C37-4B2F-B36C-3FEDC18B84C1}|Q3\\Q3.csproj|solutionrelative:q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\tp1-.netweb\\tp1-.netweb\\q12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B9F4E7-DE66-49A4-8737-22A4E93C7742}|Q12\\Q12.csproj|solutionrelative:q12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,166 +38,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q7\\Logger.cs",
-              "RelativeDocumentMoniker": "Q7\\Logger.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q7\\Logger.cs",
-              "RelativeToolTip": "Q7\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T18:36:41.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q7\\Program.cs",
-              "RelativeDocumentMoniker": "Q7\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q7\\Program.cs",
-              "RelativeToolTip": "Q7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T18:33:49.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q6\\Logger.cs",
-              "RelativeDocumentMoniker": "Q6\\Logger.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q6\\Logger.cs",
-              "RelativeToolTip": "Q6\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T18:22:09.996Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Q12\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Q12\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:08:03.447Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q6\\Program.cs",
-              "RelativeDocumentMoniker": "Q6\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q6\\Program.cs",
-              "RelativeToolTip": "Q6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T18:18:14.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DownloadManager.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q5\\DownloadManager.cs",
-              "RelativeDocumentMoniker": "Q5\\DownloadManager.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q5\\DownloadManager.cs",
-              "RelativeToolTip": "Q5\\DownloadManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:44:59.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q5\\Program.cs",
-              "RelativeDocumentMoniker": "Q5\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q5\\Program.cs",
-              "RelativeToolTip": "Q5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:29:06.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MostrarAlerta.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q4\\MostrarAlerta.cs",
-              "RelativeDocumentMoniker": "Q4\\MostrarAlerta.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q4\\MostrarAlerta.cs",
-              "RelativeToolTip": "Q4\\MostrarAlerta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:24:36.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TemperatureSensor.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q4\\TemperatureSensor.cs",
-              "RelativeDocumentMoniker": "Q4\\TemperatureSensor.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q4\\TemperatureSensor.cs",
-              "RelativeToolTip": "Q4\\TemperatureSensor.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:09:30.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q4\\Program.cs",
-              "RelativeDocumentMoniker": "Q4\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q4\\Program.cs",
-              "RelativeToolTip": "Q4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:06:57.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Q2.csproj",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q2\\Q2.csproj",
-              "RelativeDocumentMoniker": "Q2\\Q2.csproj",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q2\\Q2.csproj",
-              "RelativeToolTip": "Q2\\Q2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T18:05:59.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q3\\Program.cs",
-              "RelativeDocumentMoniker": "Q3\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q3\\Program.cs",
-              "RelativeToolTip": "Q3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:05:27.616Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q2\\Program.cs",
-              "RelativeDocumentMoniker": "Q2\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q2\\Program.cs",
-              "RelativeToolTip": "Q2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Program.cs",
+              "RelativeDocumentMoniker": "Q12\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Program.cs",
+              "RelativeToolTip": "Q12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:05:16.53Z",
+              "WhenOpened": "2025-05-09T19:05:53.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q1\\Program.cs",
-              "RelativeDocumentMoniker": "Q1\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q1\\Program.cs",
-              "RelativeToolTip": "Q1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CreateEvent.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Pages\\CreateEvent.cshtml.cs",
+              "RelativeDocumentMoniker": "Q12\\Pages\\CreateEvent.cshtml.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Pages\\CreateEvent.cshtml.cs",
+              "RelativeToolTip": "Q12\\Pages\\CreateEvent.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:04:56.89Z"
+              "WhenOpened": "2025-05-09T19:05:12.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Pages\\CreateEvent.cshtml",
+              "RelativeDocumentMoniker": "Q12\\Pages\\CreateEvent.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Pages\\CreateEvent.cshtml",
+              "RelativeToolTip": "Q12\\Pages\\CreateEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:05:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Q12\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\TP1-.NetWeb\\Tp1-.NetWeb\\Q12\\Models\\Event.cs",
+              "RelativeToolTip": "Q12\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:04:23.468Z",
+              "EditorCaption": ""
             }
           ]
         }

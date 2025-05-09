@@ -20,7 +20,7 @@ public class Program
             Console.WriteLine($"Preço com desconto: {preçoFinal}");
 
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             Console.WriteLine("Erro: Valor inválido. Por favor, insira um preço válido.");
         }

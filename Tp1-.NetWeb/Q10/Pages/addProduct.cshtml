@@ -1,0 +1,26 @@
+﻿@page
+@model Q10.Pages.addProductModel
+@{
+    ViewData["Title"] = "Cadastro de Produto";
+}
+
+<h1>Formulário de Produto</h1>
+
+<form method="post">
+    <div>
+        <label>Nome:</label>
+        <input type="text" asp-for="ProductName" />
+    </div>
+    <div>
+        <label>Preço:</label>
+        <input type="number" asp-for="ProductPrice" step="0.10" />
+    </div>
+    <button type="submit">Enviar</button>
+</form>
+
+@if (Model.FomrEnviado)
+{
+    <h2>Dados recebidos:</h2>
+    <p><strong>Nome:</strong> @Model.ProductName</p>
+    <p><strong>Preço:</strong> R$ @Model.ProductPrice.ToString()</p>
+}

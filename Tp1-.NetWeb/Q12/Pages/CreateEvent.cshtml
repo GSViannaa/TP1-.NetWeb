@@ -1,0 +1,29 @@
+﻿@page
+@model Q12.Pages.CretaEventModel
+@{
+    ViewData["Title"] = "Criar Evento";
+}
+
+<h2>Cadastrar Novo Evento</h2>
+
+<form method="post">
+    <div>
+        <label>Título:</label>
+        <input asp-for="NovoEvento.Titulo" />
+    </div>
+    <div>
+        <label>Data:</label>
+        <input asp-for="NovoEvento.Data" type="datetime-local" />
+    </div>
+    <div>
+        <label>Local:</label>
+        <input asp-for="NovoEvento.Local" />
+    </div>
+
+    <button type="submit">Cadastrar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Mensagem))
+{
+    <p style="color: green">@Model.Mensagem</p>
+}
